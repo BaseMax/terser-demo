@@ -1,0 +1,14 @@
+{
+  "name": "terser-demo",
+  "version": "1.0.0",
+  "description": "Showcase Terser usage with examples",
+  "main": "index.js",
+  "dependencies": {
+    "terser": "^5.37.0"
+  },
+  "scripts": {
+    "minify": "node minify.js"
+  },
+  "author": "BaseMax",
+  "license": "MIT"
+}
