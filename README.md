@@ -12,10 +12,10 @@ This project demonstrates how to use [Terser](https://github.com/terser/terser) 
 
 2. Install the dependencies:
 
-```bash
-cd terser-demo
-npm install
-```
+   ```bash
+   cd terser-demo
+   npm install
+   ```
 
 ## Usage
 
